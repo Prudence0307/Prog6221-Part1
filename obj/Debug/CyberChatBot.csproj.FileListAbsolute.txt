@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\CyberChatBot\CyberChatBot\obj\Debug\CyberChatBot.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CyberChatBot\CyberChatBot\obj\Debug\CyberChatBot.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CyberChatBot\CyberChatBot\bin\Debug\CyberChatBot.exe.config
+C:\Users\USER\source\repos\CyberChatBot\CyberChatBot\bin\Debug\CyberChatBot.exe
+C:\Users\USER\source\repos\CyberChatBot\CyberChatBot\bin\Debug\CyberChatBot.pdb
+C:\Users\USER\source\repos\CyberChatBot\CyberChatBot\obj\Debug\CyberChatBot.exe
+C:\Users\USER\source\repos\CyberChatBot\CyberChatBot\obj\Debug\CyberChatBot.pdb
